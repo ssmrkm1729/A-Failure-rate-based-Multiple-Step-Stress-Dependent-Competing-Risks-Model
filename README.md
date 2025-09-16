@@ -42,7 +42,7 @@ Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk 
 
 1. Open any `.R` script in **RStudio** or any R environment.  
 2. Ensure `dataset_ssm.xlsx` is located in the `code/` folder.  
-3. Run the script to reproduce analyses (results will be displayed or saved if the script is designed to do so).
+3. Run the script to reproduce analyses.
 
 ## Required R Packages
 
