@@ -4,6 +4,23 @@ This repository contains the **R scripts, data, and sample results** used as sup
 
 **"A Failure-rate based Multiple Step-Stress Dependent Competing Risks Model with Applications to Aerospace Electrical Connectors Data"**
 
+
+## Authors
+
+- **Sarat Sindhu Mukhopadhyay**  
+  SQC and OR Unit, Indian Statistical Institute, Bangalore, Karnataka, India  
+  Email: ssmrkm1729@gmail.com  
+
+- **Ayan Pal**  
+  Department of Statistics, The University of Burdwan, West Bengal, India  
+  Email: ayan.pal33@gmail.com  
+
+- **Gijo E.V.**   
+  SQC and OR Unit, Indian Statistical Institute, Bangalore, Karnataka, India  
+  Email: gijoev@gmail.com  
+
+
+
 ## Repository Structure
 
 - `code/` : Contains 4 independent R scripts:
