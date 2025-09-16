@@ -19,6 +19,13 @@ This repository contains the **R scripts, data, and sample results** used as sup
   SQC and OR Unit, Indian Statistical Institute, Bangalore, Karnataka, India  
   Email: gijoev@gmail.com  
 
+## Source of the  Dataset used
+
+The dataset `dataset_ssm.xlsx` used in this repository was taken from:
+
+Zhou, Y., Lu, Z., Shi, Y., Cheng, K.: *The copula-based method for statistical analysis of step-stress accelerated life test with dependent competing failure modes*.  
+Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 233(3), 401–418 (2019)  
+(https://doi.org/10.1177/1748006x18793251)
 
 
 ## Repository Structure
